@@ -485,6 +485,9 @@ ul.carousel__title a {
     text-decoration: none;
 }
 /* FOOTER */
+.pooch-footer ul{
+    list-style: none;
+}
 .pooch-footer footer.footer-28 {
     background: #111;
     width: 100%;
